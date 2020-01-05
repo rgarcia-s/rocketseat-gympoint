@@ -11,7 +11,7 @@
   Este projeto foi desenvolvido ao longo do Bootcamp GoStack da RocketSeat e serve como avaliação final.
   
   O sistema serve para fazer o gerenciamento básico de academias, tendo sua parte WEB voltada para a administração do estabelecimento com as funções de criar, editar e excluir alunos, planos e matrículas, além de responder pedidos de auxílio feitos pelos alunos. Quando matrículas são criadas ou editas e pedidos de auxílio respondidos o aluno recebe um e-mail com as informações.
-  A parte Mobile é voltada para os alunos e tem as funções de realizar check-in e fazer pedidos de auxílio e ler a resposta da academia.
+  A parte Mobile é voltada para os alunos e tem as funções de realizar check-in e fazer pedidos de auxílio e ler a resposta da academia. Para iniciar o projeto foi utilizado o template avançado para react-native da rocketseat que pode ser encontrado em <a href="https://github.com/Rocketseat/react-native-template-rocketseat-advanced">Rocketseat React Native Advanced Template</a>.
   
   O projeto foi desenvolvido e testado apenas para ambiente Android. A execução em sistema IOS pode causar erros.
 
